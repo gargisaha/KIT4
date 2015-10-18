@@ -9,6 +9,6 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:showIn="@layout/app_bar_main_activity_kit4" tools:context=".MainActivityKIT4">
 
-    <TextView android:text="Please select the contacts you want to keep in touch with!" android:layout_width="wrap_content"
+    <TextView android:text="Please select the contacts you want to keep in touch with pls!" android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </RelativeLayout>
